@@ -6,6 +6,6 @@ Link to app - https://mybinder.org/v2/gh/reizevans/pet_classification/HEAD?urlpa
 
 Image classification from fastai to distinguish different pet breeds.
 
-Simply upload an image of a bear to receive classification and confidence.
+Simply upload an image of a cat or dog to see what type it is.
 
 https://course.fast.ai/
